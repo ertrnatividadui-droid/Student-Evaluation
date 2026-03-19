@@ -1,0 +1,21 @@
+{
+    "name": "Student Evaluation",
+    "short_name": "Studenteval",
+    "start_url": "/",
+    "display": "standalone",
+    "background-color": "#33e0ff",
+    "theme_color": "77ebff",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
